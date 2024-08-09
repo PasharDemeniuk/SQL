@@ -1,5 +1,6 @@
 # SQL
 Работа с базой данных, которая хранит информацию о венчурных фондах и инвестициях в компании-стартапы. Эта база данных основана на датасете Startup Investments (https://www.kaggle.com/datasets/justinas/startup-investments), опубликованном на Kaggle. 
+![basic_sql_project_ERD](https://github.com/user-attachments/assets/e0ffd342-9f14-498e-bf72-956d28a84dca)
 
 Данные, которые хранят таблицы:
 
